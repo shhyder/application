@@ -1,0 +1,95 @@
+﻿<html>
+<head>
+  <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+  <script type='text/javascript'>
+   google.load('visualization', '1', {'packages': ['geochart']});
+   google.setOnLoadCallback(drawRegionsMap);
+
+    function drawRegionsMap() {
+      var data = new google.visualization.DataTable();
+      data.addRows(6);
+      data.addColumn('string', 'Country');
+      data.addColumn('number', 'Popularity');
+      data.setValue(0, 0, 'Germany');
+      data.setValue(0, 1, 200);
+      data.setValue(1, 0, 'United States');
+      data.setValue(1, 1, 300);
+      data.setValue(2, 0, 'Brazil');
+      data.setValue(2, 1, 400);
+      data.setValue(3, 0, 'Canada');
+      data.setValue(3, 1, 500);
+      data.setValue(4, 0, 'France');
+      data.setValue(4, 1, 600);
+      data.setValue(5, 0, 'RU');
+      data.setValue(5, 1, 700);
+
+      var options = {};
+
+      var container = document.getElementById('map_canvas');
+      var geochart = new google.visualization.GeoChart(container);
+      geochart.draw(data, options);
+  };
+  </script>
+</head>
+
+<body>
+  <div id='map_canvas'></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id="intensity_map_example">Intensity Map Example</h2>
+<div id="intensitymap_div"></div>
+<script type="text/javascript">
+function drawIntensityMap() {
+  var data = new google.visualization.DataTable();
+  data.addColumn('string', 'Country');
+  data.addColumn('number', 'Sales');
+  data.addColumn('number', 'Expenses');
+  data.addRows(4);
+  data.setCell(0, 0, 'US');
+  data.setCell(0, 1, 10000);
+  data.setCell(0, 2, 8000);
+  data.setCell(1, 0, 'CA');
+  data.setCell(1, 1, 7000);
+  data.setCell(1, 2, 5000);
+  data.setCell(2, 0, 'CN');
+  data.setCell(2, 1, 8000);
+  data.setCell(2, 2, 12000);
+  data.setCell(3, 0, 'GB');
+  data.setCell(3, 1, 7000);
+  data.setCell(3, 2, 15000);
+
+  var imap = new google.visualization.IntensityMap(document.getElementById('intensitymap_div'));
+  imap.draw(data, {});
+}
+</script>
+
+
+
+<h2 id="intensity_map_example">Intensity Map Example</h2>
+<div id="intensitymap_div"></div>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
