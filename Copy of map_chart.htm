@@ -1,0 +1,39 @@
+﻿<html>
+<head>
+  <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+  <script type='text/javascript'>
+   google.load('visualization', '1', {'packages': ['geomap']});
+   google.setOnLoadCallback(drawMap);
+
+    function drawMap() {
+      var data = new google.visualization.DataTable();
+      data.addRows(6);
+      data.addColumn('string', 'Country');
+      data.addColumn('number', 'Views');
+      data.setValue(0, 0, 'Alabama');
+      data.setValue(0, 1, 200);
+
+      data.setValue(1, 0, 'Texas');
+      data.setValue(1, 1, 1200);
+
+      data.setValue(2, 0, 'New York');
+      data.setValue(2, 1, 1200);
+
+       data.setValue(3, 0, 'California');
+      data.setValue(3, 1, 1900);
+      
+      var options = {region: 'US'};
+      options['dataMode'] = 'regions';
+
+      var container = document.getElementById('map_canvas');
+      var geomap = new google.visualization.GeoMap(container);
+      geomap.draw(data, options);
+  };
+  </script>
+</head>
+
+<body>
+  <div id='map_canvas'></div>
+</body>
+
+</html>
