@@ -1,0 +1,258 @@
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\DataSet.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\project\ProductSearch\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\project\ProductSearch\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\project\ProductSearch\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\ProductSearch\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\ProductSearch\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\ProductSearch\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\ProductSearch\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.dll
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.dll
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.pdb
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\GlobalVariables.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\DataSet.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

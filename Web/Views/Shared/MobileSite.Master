@@ -1,0 +1,52 @@
+<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" dir="ltr" lang="en-us" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Product"><head>
+  <meta charset="utf-8">
+  <meta name="robots" content="index, follow"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="jatai, feather, razor cutting, razor, razors, styling razor, nape, haircutting, hair, styling, cutting, stylist, hairdresser, replacement, blades, plier, flexion, christie waldrop, dean wada, dick peterson, off the cutting floor, feather razor, education, classes, education, portal, educational, smooth, easy"/>
+  <meta name="description" content="JATAI implements beauty products, service and education to all stylists for Razor cutting and hair styling for all professional Feather razors and shears!"/>
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management"/>
+  <title>JATAI.net - Implementing Beauty<asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+  <link href="http://jatai.net/templates/jsn_epic_pro_413/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link rel='stylesheet' type='text/css' href="<%= Url.Content( "~/Main.css" ) %>" />
+  <script type="text/javascript" src='<%=  Url.Content("~/MapJS/mainProductSearch.js")%>'></script>
+ 
+
+	
+	
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	    { parsetags: 'explicit' }
+</script>
+	
+	
+	
+	 <script type="text/javascript">
+
+	     var _gaq = _gaq || [];
+	     _gaq.push(['_setAccount', '<%= System.Configuration.ConfigurationManager.AppSettings["ProfileID"]  %>']);
+	     _gaq.push(['_trackPageview']);
+	  
+	     (function() {
+	         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	     })();
+	    
+</script>
+	
+	</head>
+<body  >
+
+<asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+
+
+<script type="text/javascript">
+	    jQuery(document).ready(function() {
+	        pfxURL.staticVar = '<%= System.Configuration.ConfigurationManager.AppSettings["GSite"]  %>';
+
+	    });
+</script>
+
+</body></html>

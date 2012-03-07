@@ -1,0 +1,12 @@
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\bin\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\bin\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\obj\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\obj\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ReportingService\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ReportingService\obj\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ReportingService\obj\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ReportingService\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ReportingService\obj\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ReportingService\obj\Debug\Microsoft.Samples.ReportingServices.AnonymousSecurity.pdb

@@ -1,0 +1,102 @@
+E:\project\ProductSearch\DataSet\bin\Debug\DataSet.dll.config
+E:\project\ProductSearch\DataSet\bin\Debug\DataSet.dll
+E:\project\ProductSearch\DataSet\bin\Debug\DataSet.pdb
+E:\project\ProductSearch\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\project\ProductSearch\DataSet\obj\Debug\DataSet.dll
+E:\project\ProductSearch\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\ProductSearch\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\ProductSearch\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\ProductSearch\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\ProductSearch\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\ProductSearch\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\ProductSearch\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V2\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V2\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V2\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V2\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V2\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V2\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V3\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V5\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V7\DataSet\obj\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataSet\bin\Debug\DataSet.dll.config
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataSet\bin\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataSet\bin\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataSet\obj\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V7\ProductSearch_V7\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V8\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V9\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataSet\obj\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll.config
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll.config
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll.config
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.pdb
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll.config
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.pdb
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.dll
+D:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll.config
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\bin\Debug\DataSet.pdb
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.dll
+D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.pdb

@@ -1,0 +1,20 @@
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\GlobalVariables\bin\Release\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\GlobalVariables\bin\Release\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\GlobalVariables\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\GlobalVariables\obj\Release\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\GlobalVariables\obj\Release\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\GlobalVariables\bin\Release\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\GlobalVariables\bin\Release\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\GlobalVariables\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\GlobalVariables\obj\Release\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\GlobalVariables\obj\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\GlobalVariables\bin\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\GlobalVariables\bin\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Release\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\bin\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\bin\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Release\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Release\GlobalVariables.pdb

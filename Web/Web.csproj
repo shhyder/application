@@ -1,0 +1,475 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E17149DF-FBDE-47FC-81F3-DC94CFD1DB1F}</ProjectGuid>
+    <ProjectTypeGuids>{F85E285D-A4E0-4152-9332-AB1D724D3325};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web</RootNamespace>
+    <AssemblyName>Web</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Abstractions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Routing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.XML">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AnalysisController.cs" />
+    <Compile Include="Controllers\AttributeController.cs" />
+    <Compile Include="Controllers\AttributeVariantController.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\CustomerController.cs" />
+    <Compile Include="Controllers\ImageController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\DealerMapController.cs" />
+    <Compile Include="Controllers\DistributorController.cs" />
+    <Compile Include="Controllers\EventController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductTypeController.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
+    <Compile Include="Controllers\SearchDealerController.cs" />
+    <Compile Include="Controllers\SearchProductController.cs" />
+    <Compile Include="Controllers\StoreController.cs" />
+    <Compile Include="Controllers\VisitController.cs" />
+    <Compile Include="Controllers\_BaseController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MarkerIcon.ashx.cs">
+      <DependentUpon>MarkerIcon.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\PaginatedList.cs" />
+    <Compile Include="Models\Utility.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Advanced Search_files\global.css" />
+    <Content Include="Advanced Search_files\global.js" />
+    <Content Include="Advanced Search_files\ico_opinion_foot.gif" />
+    <Content Include="Advanced Search_files\jquery.js" />
+    <Content Include="Advanced Search_files\ms-loading.gif" />
+    <Content Include="Advanced Search_files\multiSelect.css" />
+    <Content Include="Advanced Search_files\oo_engine.js" />
+    <Content Include="Advanced Search_files\prototype.js" />
+    <Content Include="Advanced Search_files\slider.js" />
+    <Content Include="Advanced Search_files\specsPopup.css" />
+    <Content Include="Advanced Search_files\s_code.js" />
+    <Content Include="Global.asax" />
+    <Content Include="marker-images\image.png" />
+    <Content Include="marker-images\shadow.png" />
+    <Content Include="Views\AttributeVariant\AttributeVariant.ascx" />
+    <Content Include="Views\Attribute\Attribute.ascx" />
+    <Content Include="Views\Attribute\AttributeVariant.ascx" />
+    <Content Include="Views\Distributor\Address.ascx" />
+    <Content Include="Views\Distributor\Distributor.ascx" />
+    <Content Include="Views\Distributor\Index.aspx" />
+    <Content Include="Views\ProductType\Index.aspx" />
+    <Content Include="Views\ProductType\List.ascx" />
+    <Content Include="Views\ProductType\NewProductType.ascx" />
+    <Content Include="Views\ProductType\ProductType.ascx" />
+    <Content Include="Views\ProductType\ProductTypeAttributes.ascx" />
+    <Content Include="Views\SearchDealer\Result.aspx" />
+    <Content Include="Views\SearchDealer\List.ascx" />
+    <Content Include="Views\SearchProduct\Index.aspx" />
+    <Content Include="Views\SearchProduct\List.ascx" />
+    <Content Include="Views\Search\Critaria.ascx" />
+    <Content Include="Views\Search\DealerLocator.ascx" />
+    <Content Include="Views\Search\Index.aspx" />
+    <Content Include="Views\Search\Search.ascx" />
+    <Content Include="Views\Shared\Dialog.ascx" />
+    <Content Include="Web.config" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.min-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.min-vsdoc.js" />
+    <Content Include="Scripts\MicrosoftAjax.js" />
+    <Content Include="Scripts\MicrosoftAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcValidation.js" />
+    <Content Include="Scripts\MicrosoftMvcValidation.debug.js" />
+    <Content Include="Views\Account\ChangePassword.aspx" />
+    <Content Include="Views\Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Views\Account\LogOn.aspx" />
+    <Content Include="Views\Account\Register.aspx" />
+    <Content Include="Views\Home\About.aspx" />
+    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Shared\Error.aspx" />
+    <Content Include="Views\Shared\LogOnUserControl.ascx" />
+    <Content Include="Views\Shared\OldSite.Master" />
+    <Content Include="Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{62B4395A-4B43-4CF7-9E34-3D1542458C11}</Project>
+      <Name>BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataSet\DataSet.csproj">
+      <Project>{38A17F01-5116-4672-92EC-FC4588E57A17}</Project>
+      <Name>DataSet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GlobalVariables\GlobalVariables.csproj">
+      <Project>{E40A3114-02D1-4B75-A8DC-CCFF0AF02F33}</Project>
+      <Name>GlobalVariables</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Google Analytics Desbord Controls\Google Analytics Desbord Controls.csproj">
+      <Project>{D39A402C-F98E-4FF4-B09B-CEDAA9F937D3}</Project>
+      <Name>Google Analytics Desbord Controls</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Advanced Search_files\ScriptResource%281%29.axd" />
+    <None Include="Advanced Search_files\ScriptResource.axd" />
+    <None Include="Advanced Search_files\WebResource.axd" />
+    <None Include="js\js" />
+    <Content Include="images\ajax-loaderWhite.gif" />
+    <Content Include="images\no-product-image.jpg" />
+    <Content Include="Test.htm" />
+    <Content Include="Views\Account\BrowserCompatibility.aspx" />
+    <Content Include="Views\Category\Category.ascx" />
+    <Content Include="Views\Category\Grid.ascx" />
+    <Content Include="Views\Category\Index.aspx" />
+    <Content Include="Views\Category\List.ascx" />
+    <Content Include="Views\Customer\Grid.ascx" />
+    <Content Include="Views\Customer\Index.aspx" />
+    <Content Include="Views\Customer\List.ascx" />
+    <Content Include="Views\Search\MobileIndex.aspx" />
+    <Content Include="Views\Shared\MobileSite.Master" />
+    <Content Include="Content\MobilemultiSelect.css" />
+    <Content Include="images\Google-Maps-icon.png" />
+    <Content Include="Views\Analysis\Index.aspx" />
+    <Content Include="Views\Search\MobileCritaria.ascx" />
+    <Content Include="Views\Search\MobileDealerLocator.ascx" />
+    <Content Include="Views\Search\MobileDetail.ascx" />
+    <Content Include="Views\Search\MobileListSearch.ascx" />
+    <Content Include="Views\Search\MobileListSearchHeader.ascx" />
+    <Content Include="Views\Search\MobileRoute.ascx" />
+    <Content Include="Views\Search\MobileSearch.ascx" />
+    <Content Include="Views\Shared\App.Master" />
+    <Content Include="Icon\redblank.png" />
+    <Content Include="Icon\yellowBlank.png" />
+    <Content Include="images\ajax-loader_Upper.gif" />
+    <Content Include="images\icon_checkbox.png" />
+    <Content Include="js\jquery.ui.widget.js" />
+    <Content Include="js\jquery.usermode.js" />
+    <Content Include="js\ui.checkbox.js" />
+    <Content Include="Main.css" />
+    <Content Include="MapJS\Event.js" />
+    <Content Include="MapJS\Store.js" />
+    <Content Include="MarkerIcon.ashx" />
+    <Content Include="js\cb_scout_sprite_api_002.png" />
+    <Content Include="js\jquery-1.4.2.min.js" />
+    <Content Include="js\jquery-ui-1.8.1.custom.min.js" />
+    <Content Include="js\main.css" />
+    <Content Include="MapJS\mainProductSearch.js" />
+    <Content Include="MapJS\Route.js" />
+    <Content Include="MapJS\Search.js" />
+    <Content Include="PlgIn\application.js" />
+    <Content Include="PlgIn\jquery.fileupload-ui.js" />
+    <Content Include="PlgIn\jquery.fileupload.js" />
+    <Content Include="PlgIn\jquery.iframe-transport.js" />
+    <Content Include="Pro_files\Awesome.css" />
+    <Content Include="Pro_files\Awesome.js" />
+    <Content Include="Pro_files\jquery-ui.css" />
+    <Content Include="Pro_files\jquery-ui.js" />
+    <Content Include="Pro_files\jquery.js" />
+    <Content Include="Pro_files\jquery_002.js" />
+    <Content Include="Pro_files\Site.css" />
+    <Content Include="Pro_files\style.js" />
+    <Content Include="Views\Product\Grid.ascx" />
+    <Content Include="Views\Product\Index.aspx" />
+    <Content Include="Views\Product\List.ascx" />
+    <Content Include="Views\Event\Detail.ascx" />
+    <Content Include="Views\Event\Event.aspx" />
+    <Content Include="Views\Product\Product.ascx" />
+    <Content Include="Views\Search\Store.aspx" />
+    <Content Include="Views\Shared\Facebook.ascx" />
+    <Content Include="Views\Event\Index.aspx" />
+    <Content Include="Views\Event\ListSearch.ascx" />
+    <Content Include="Views\Event\ListSearchHeader.ascx" />
+    <Content Include="Views\Event\Route.ascx" />
+    <Content Include="Views\Event\Search.ascx" />
+    <Content Include="Views\Search\Detail.ascx" />
+    <Content Include="Views\Search\ListSearchHeader.ascx" />
+    <Content Include="Views\Search\Route.ascx" />
+    <Content Include="Views\Shared\FacebookInit.ascx" />
+    <Content Include="Views\Shared\MobileFacebook.ascx" />
+    <Content Include="Views\Shared\MobileNavigator.ascx" />
+    <Content Include="Views\Shared\Navigator.ascx" />
+    <Content Include="Views\Shared\Site.Master" />
+    <Content Include="Content\Search.css" />
+    <Content Include="Icon\01.png" />
+    <Content Include="Icon\02.png" />
+    <Content Include="Icon\03.png" />
+    <Content Include="Icon\home.png" />
+    <Content Include="Icon\state.png" />
+    <Content Include="images\ajax-loader.gif" />
+    <Content Include="images\logo_main.gif" />
+    <Content Include="Jatai International\AC_RUN~1.JS" />
+    <Content Include="Jatai International\bar_orange.gif" />
+    <Content Include="Jatai International\BTN_FE~1.JPG" />
+    <Content Include="Jatai International\btn_jatai_family.jpg" />
+    <Content Include="Jatai International\BTN_JA~1.JPG" />
+    <Content Include="Jatai International\btn_seki_edge.jpg" />
+    <Content Include="Jatai International\chrome.js" />
+    <Content Include="Jatai International\chromestyle.css" />
+    <Content Include="Jatai International\footer.htm" />
+    <Content Include="Jatai International\image.css" />
+    <Content Include="Jatai International\images\logo_main.gif" />
+    <Content Include="Jatai International\images\LOGO_M~1.GIF" />
+    <Content Include="Jatai International\kenburns.swf" />
+    <Content Include="Jatai International\NEWS_3~1.JPG" />
+    <Content Include="Jatai International\news_bsb-tn.jpg" />
+    <Content Include="Jatai International\NEWS_C~1.JPG" />
+    <Content Include="Jatai International\NEWS_C~2.JPG" />
+    <Content Include="Jatai International\NEWS_E~1.JPG" />
+    <Content Include="Jatai International\NEWS_F~1.JPG" />
+    <Content Include="Jatai International\NEWS_G~1.JPG" />
+    <Content Include="Jatai International\NEWS_G~2.JPG" />
+    <Content Include="Jatai International\NEWS_H~1.JPG" />
+    <Content Include="Jatai International\news_kevin_tn.jpg" />
+    <Content Include="Jatai International\NEWS_L~1.JPG" />
+    <Content Include="Jatai International\NEWS_M~1.JPG" />
+    <Content Include="Jatai International\NEWS_S~1.JPG" />
+    <Content Include="Jatai International\NEWS_S~2.JPG" />
+    <Content Include="Jatai International\spacer.gif" />
+    <Content Include="Jatai International\stmenu.js" />
+    <Content Include="Jatai International\text.css" />
+    <Content Include="Jatai International\WHATSN~1.JPG" />
+    <Content Include="Jatai International\WHATSN~2.JPG" />
+    <Content Include="Jatai International\WHATSN~3.JPG" />
+    <Content Include="Jatai International\WHATSN~4.JPG" />
+    <Content Include="Jatai International\WHATS_~1.JPG" />
+    <Content Include="MapJS\CustomMarker.js" />
+    <Content Include="MapJS\infobubble.js" />
+    <Content Include="MapJS\labeledmarker.js" />
+    <Content Include="MapJS\labeled_marker.js" />
+    <Content Include="MapJS\map_functions.js" />
+    <Content Include="MapJS\markermanager.js" />
+    <Content Include="ProdImg\1_4_Jaw_Cuticle__4dc33a707644b.jpg" />
+    <Content Include="ProdImg\Acrylic_Nail_Sci_4dc4411fbb609.jpg" />
+    <Content Include="ProdImg\Adonis_6_Piece_G_4dc4415562a08.jpg" />
+    <Content Include="ProdImg\Adonis_9_Piece_G_4dc4416ee7539.jpg" />
+    <Content Include="ProdImg\Baby_Nail_Clippe_4dc44178c3c9d.jpg" />
+    <Content Include="ProdImg\Blackhead_Remove_4dc441c82ff31.jpg" />
+    <Content Include="ProdImg\Black_Grip_Clips_4dc86dd0d3ee7.jpg" />
+    <Content Include="ProdImg\Black_Stainless__4dc441b275d55.jpg" />
+    <Content Include="ProdImg\Black_Stainless__4dc441bd2abb8.jpg" />
+    <Content Include="ProdImg\Blending_Scissor_4dc441d1b84a4.jpg" />
+    <Content Include="ProdImg\Callus_Reducer___4dc441dff3e7c.jpg" />
+    <Content Include="ProdImg\Contour_Nail_Cli_4dc442a6e7d80.jpg" />
+    <Content Include="ProdImg\Contour_Pointed__4dc442b15dc24.jpg" />
+    <Content Include="ProdImg\Contour_Slant_Tw_4dc443001fdd8.jpg" />
+    <Content Include="ProdImg\Craftsman_2_Piec_4dc4430ea62eb.jpg" />
+    <Content Include="ProdImg\Craftsman_3_Piec_4dc443194cec2_90x90.jpg" />
+    <Content Include="ProdImg\Craftsman_6_Piec_4dc44326aee13.jpg" />
+    <Content Include="ProdImg\Craftsman_9_Piec_4dc4432f66011.jpg" />
+    <Content Include="ProdImg\Curved_Natural_N_4dc4438e481cc.jpg" />
+    <Content Include="ProdImg\Cuticle_Pusher___4dc4439ec9c3a.jpg" />
+    <Content Include="ProdImg\Cuticle_Remover__4dc443a374400.jpg" />
+    <Content Include="ProdImg\Deluxe_Fingernai_4dc443d148a41.jpg" />
+    <Content Include="ProdImg\Deluxe_Toenail_C_4dc443d864212.jpg" />
+    <Content Include="ProdImg\Extra_Grip_Slant_4dc443dec0d05.jpg" />
+    <Content Include="ProdImg\Eyebrow_Comb_Sci_4dc443ec59d73.jpg" />
+    <Content Include="ProdImg\EZ_View_Clipper__4dc443f2e8924.jpg" />
+    <Content Include="ProdImg\EZ_View_Tweezer__4dc44bc03c978.jpg" />
+    <Content Include="ProdImg\F1-10-365a_90x90.jpg" />
+    <Content Include="ProdImg\F1-15-106a.jpg4e1617765f56d_90x90.jpg" />
+    <Content Include="ProdImg\F1-15-108a.jpg4e16177d466c5_90x90.jpg" />
+    <Content Include="ProdImg\F1-15-900a.jpg" />
+    <Content Include="ProdImg\F1-20-100d_90x90.jpg" />
+    <Content Include="ProdImg\F1-20-106d_90x90.jpg" />
+    <Content Include="ProdImg\F1-20-130b.jpg" />
+    <Content Include="ProdImg\F1-25-200a.jpg" />
+    <Content Include="ProdImg\F1-25-210a.jpg" />
+    <Content Include="ProdImg\F1-25-220a.jpg" />
+    <Content Include="ProdImg\F1-25-230a.jpg" />
+    <Content Include="ProdImg\F1-25-240a.jpg" />
+    <Content Include="ProdImg\F1-25-900a.jpg" />
+    <Content Include="ProdImg\F1-25-901a.jpg4e00e0eae33ef_90x90.jpg" />
+    <Content Include="ProdImg\F1-25-901a_jpg4e00e0eae33ef.jpg" />
+    <Content Include="ProdImg\F1-30-100e.jpg" />
+    <Content Include="ProdImg\F1-30-200a.jpg" />
+    <Content Include="ProdImg\F1-30-201a.jpg" />
+    <Content Include="ProdImg\F1-30-202a.jpg" />
+    <Content Include="ProdImg\F1-30-203a.jpg" />
+    <Content Include="ProdImg\F1-30-300a.jpg" />
+    <Content Include="ProdImg\F1-30-430a_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-100a.jpg4e1615663d0bd_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-101a.jpg4e16164338421_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-110b.jpg" />
+    <Content Include="ProdImg\F1-80-120b.jpg4e16180cdcf9c_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-200b_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-202a.jpg4e1617108fa29_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-300b.jpg4e1619093278a_90x90.jpg" />
+    <Content Include="ProdImg\F1-80-500a.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc8686732645.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc8686f48bd5.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc86876d2d13.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc8687e3e0ae.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc86885e5a86.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc8688bd72ba.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc8693643097.jpg" />
+    <Content Include="ProdImg\Feather___Switch_4dc8693f831dc.jpg" />
+    <Content Include="ProdImg\Flat_Slant_Cutic_4dc44408b6761.jpg" />
+    <Content Include="ProdImg\Folding_Eyelash__4dc4441411439.jpg" />
+    <Content Include="ProdImg\Folding_Lash_Pin_4dc4441d1ab05.jpg" />
+    <Content Include="ProdImg\Fuji_Hands_Free__4dc86ce33ff1f_90x90.jpg" />
+    <Content Include="ProdImg\Fuji_Hands_Free__4dc86d14d16f6_90x90.jpg" />
+    <Content Include="ProdImg\Fuji_Perfect_Pap_4dc86cf0ea59d_90x90.jpg" />
+    <Content Include="ProdImg\Haircutting_Scis_4dc444284d0a0.jpg" />
+    <Content Include="ProdImg\Haircutting_Styl_4dc4448eb8bd0.jpg" />
+    <Content Include="ProdImg\In_Grown_Nail_Cl_4dc44498962d3.jpg" />
+    <Content Include="ProdImg\Long_Toenail_Fil_4dc444a0008db.jpg" />
+    <Content Include="ProdImg\Mens_Grooming_Ki_4dc4459d0f2f1.jpg" />
+    <Content Include="ProdImg\Metal_Eyelash_Cu_4dc445b2c6f63.jpg" />
+    <Content Include="ProdImg\Mini_Eyebrow_Twe_4dc4461029679.jpg" />
+    <Content Include="ProdImg\Mini_Pointed_Tip_4dc44640c76a6.jpg" />
+    <Content Include="ProdImg\Nail_File_with_P_4dc44653aefb2.jpg" />
+    <Content Include="ProdImg\no_link image.txt" />
+    <Content Include="ProdImg\Pink_Grip_Clips__4dc86ddb14236.jpg" />
+    <Content Include="ProdImg\Professional_Nai_4dc446caa15c1.jpg" />
+    <Content Include="ProdImg\Red_Grip_Clips___4dc86de8784ae.jpg" />
+    <Content Include="ProdImg\Replacement_Pads_4dc446d835428.jpg" />
+    <Content Include="ProdImg\Replacement_Pads_4dc446fd4da4b.jpg" />
+    <Content Include="ProdImg\Replacement_Pads_4dc44708e5561.jpg" />
+    <Content Include="ProdImg\Round_Finishing__4dc447137138e.jpg" />
+    <Content Include="ProdImg\Satin_Slim_Clipp_4dc4472119629.jpg" />
+    <Content Include="ProdImg\Satin_Straight_C_4dc4472b437a8.jpg" />
+    <Content Include="ProdImg\Scissors_Tweezer_4dc44734efb4e.jpg" />
+    <Content Include="ProdImg\Smart_Tweeze__SS_4dc44772d5994.jpg" />
+    <Content Include="ProdImg\Spot_Eyelash_Cur_4dc4477e3dec5.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc44787c9815.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc44792b5e70.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc44fe166719.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc45069a7304.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc45076c156f.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc4508529ce1.jpg" />
+    <Content Include="ProdImg\Stainless_Steel__4dc45094e8bec.jpg" />
+    <Content Include="Views\DealerMap\Index.aspx" />
+    <Content Include="Views\Home\Address.ascx" />
+    <Content Include="Views\SearchDealer\ListPopup.ascx" />
+    <Content Include="Views\SearchDealer\ListSearch.ascx" />
+    <Content Include="Views\SearchDealer\Route.aspx" />
+    <Content Include="Views\SearchDealer\RouteDirection.aspx" />
+    <Content Include="Views\Search\GetDealerListPage.ascx" />
+    <Content Include="Views\Search\ListSearch.ascx" />
+    <Content Include="Views\Search\PopUp.aspx" />
+    <Content Include="Views\Shared\Common.aspx" />
+    <Content Include="Views\Shared\GenericMessage.ascx" />
+    <Content Include="Views\Store\Grid.ascx" />
+    <Content Include="Views\Store\Index.aspx" />
+    <Content Include="Views\Store\List.ascx" />
+    <Content Include="Views\Store\Store.ascx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Temp\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target> -->
+  <Target Name="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3470</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

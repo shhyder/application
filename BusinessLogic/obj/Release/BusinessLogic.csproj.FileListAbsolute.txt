@@ -1,0 +1,58 @@
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\BusinessLogic.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\BusinessLogic.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\bin\Release\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\obj\Release\BusinessLogic.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\BusinessLogic\obj\Release\BusinessLogic.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\BusinessLogic.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\BusinessLogic.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\obj\Release\BusinessLogic.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\obj\Release\BusinessLogic.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\BusinessLogic.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\BusinessLogic.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\obj\Release\BusinessLogic.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\BusinessLogic\obj\Release\BusinessLogic.pdb

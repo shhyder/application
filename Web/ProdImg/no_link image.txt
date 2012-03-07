@@ -1,0 +1,9 @@
+18	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-20-100a.jpg
+19	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-20-106c.jpg
+29	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-15-108a.jpg
+31	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-15-106a.jpg
+68	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-80-100a.jpg
+74	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-80-101a.jpg
+75	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-80-202a.jpg
+76	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-80-120b.jpg
+79	http://www.jatai.net/components/com_virtuemart/shop_image/product/F1-80-300b.jpg

@@ -1,0 +1,6 @@
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\bin\Release\Microsoft.ReportingServices.Interfaces.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\bin\Release\Microsoft.Samples.ReportingServices.AnonymousSecurity.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\bin\Release\Microsoft.Samples.ReportingServices.AnonymousSecurity.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\obj\Release\Microsoft.Samples.ReportingServices.AnonymousSecurity.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\ReportingService\obj\Release\Microsoft.Samples.ReportingServices.AnonymousSecurity.pdb

@@ -1,0 +1,191 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!-- JSN_Epic_PRO 4.1.3 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" dir="ltr" lang="en-us" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Product"><head>
+	  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="robots" content="index, follow"/>
+  <meta name="keywords" content="jatai, feather, razor cutting, razor, razors, styling razor, nape, haircutting, hair, styling, cutting, stylist, hairdresser, replacement, blades, plier, flexion, christie waldrop, dean wada, dick peterson, off the cutting floor, feather razor, education, classes, education, portal, educational, smooth, easy"/>
+  <meta name="description" content="JATAI implements beauty products, service and education to all stylists for Razor cutting and hair styling for all professional Feather razors and shears!"/>
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management"/>
+  <title>JATAI.net - Implementing Beauty<asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+  <link href="http://jatai.net/templates/jsn_epic_pro_413/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link rel='stylesheet' type='text/css' href="<%= Url.Content( "~/Main.css" ) %>" />
+  <script type="text/javascript" src='<%=  Url.Content("~/MapJS/mainProductSearch.js")%>'></script>
+ 
+
+	<style type="text/css">
+			#jsn-page {
+				width: 1150px;
+			}
+			
+		#jsn-pos-promo-left {
+			float: left;
+			width: 23%;
+		}
+		#jsn-pos-promo {
+			width: 100%;
+		}
+		#jsn-pos-promo-right {
+			float: right;
+			width: 23%;
+		}
+		
+		#jsn-content_inner {
+			right: 81%;
+		}
+		#jsn-content_inner1 {
+			left: 81%;
+		}
+			
+		#jsn-content_inner2 {
+			left: 81%;
+		}
+		#jsn-content_inner3 {
+			right: 81%;
+		}
+			
+		#jsn-leftsidecontent {
+			float: left;
+			width: 19%;
+			left: -62%;
+		}
+		#jsn-maincontent {
+			float: left;
+			width: 62%;
+			left: 19%;
+		}
+		#jsn-rightsidecontent {
+			float: right;
+			width: 19%;
+		}
+		
+		#jsn-pos-innerleft {
+			float: left;
+			width: 28%;
+			left: -100%;
+		}
+		#jsn-centercol {
+			float: left;
+			width: 100%;
+			left: 0;
+		}
+		#jsn-pos-innerright {
+			float: right;
+			width: 28%;
+		}
+		
+	#jsn-master.jsn-textstyle-business {
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	
+	#jsn-master.jsn-textstyle-business h1,
+	#jsn-master.jsn-textstyle-business h2,
+	#jsn-master.jsn-textstyle-business h3,
+	#jsn-master.jsn-textstyle-business h4,
+	#jsn-master.jsn-textstyle-business h5,
+	#jsn-master.jsn-textstyle-business h6,
+	#jsn-master.jsn-textstyle-business ul.menu-mainmenu a,
+	#jsn-master.jsn-textstyle-business ul.menu-mainmenu span,
+	#jsn-master.jsn-textstyle-business .componentheading,
+	#jsn-master.jsn-textstyle-business .contentheading {
+		font-family: 'Nobile', Verdana, Geneva, Arial, Helvetica, sans-serif;
+	}
+	
+	#jsn-master.jsn-textstyle-business.jsn-textsize-medium {
+		font-size: 75%;
+	}
+	</style>
+	
+	
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	    { parsetags: 'explicit' }
+</script>
+	
+	
+	
+	 <script type="text/javascript">
+
+	     var _gaq = _gaq || [];
+	     _gaq.push(['_setAccount', '<%= System.Configuration.ConfigurationManager.AppSettings["ProfileID"]  %>']);
+	     _gaq.push(['_trackPageview']);
+	  
+	     (function() {
+	         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	     })();
+	    
+</script>
+	
+	</head>
+<body  class="jsn-textstyle-business jsn-textsize-medium jsn-color-orange jsn-direction-ltr jsn-mmtransparency jsn-smtransparency"><div style="display: none;" id="cboxOverlay"></div><div style="padding-bottom: 42px; padding-right: 42px; display: none;" id="colorbox"><div id="cboxWrapper"><div><div style="float: left;" id="cboxTopLeft"></div><div style="float: left;" id="cboxTopCenter"></div><div style="float: left;" id="cboxTopRight"></div></div><div><div style="float: left;" id="cboxMiddleLeft"></div><div style="float: left;" id="cboxContent"><div class="" style="width: 0px; height: 0px;" id="cboxLoadedContent"></div><div class="" id="cboxLoadingOverlay"></div><div class="" id="cboxLoadingGraphic"></div><div class="" id="cboxTitle"></div><div class="" id="cboxCurrent"></div><div class="" id="cboxSlideshow"></div><div class="" id="cboxNext"></div><div class="" id="cboxPrevious"></div><div class="" id="cboxClose"></div></div><div style="float: left;" id="cboxMiddleRight"></div></div><div><div style="float: left;" id="cboxBottomLeft"></div><div style="float: left;" id="cboxBottomCenter"></div><div style="float: left;" id="cboxBottomRight"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
+	<a name="top" id="top"></a>
+	<div id="jsn-page" style="border-left: 0px solid white;">
+		</div>
+		<div id="jsn-body">
+					<div id="jsn-content" class="jsn-hasleft jsn-hasright ">
+				<div id="jsn-content_inner" style=" right:100%" ><div id="jsn-content_inner1"><div id="jsn-content_inner2" style="background-color:White"><div id="jsn-content_inner3"><div id="jsn-content_inner4"><div id="jsn-content_inner5"><div id="jsn-content_inner6"><div id="jsn-content_inner7">
+					<div id="jsn-maincontent">
+						<div id="jsn-centercol">
+							<div id="jsn-centercol_inner">
+										
+										
+										<div id="jsn-mainbody-content">
+											<div id="jsn-mainbody">
+										<div class="com-content ">
+<div class="front-page-blog">
+	<div class="jsn-leading">
+					<div class="jsn-article">
+	<h2 class="contentheading">
+			<asp:ContentPlaceHolder ID="MainContent" runat="server" />
+	</h2>
+                    </div>
+<span class="article_separator">&nbsp;</span>
+<span class="article_separator">&nbsp;</span>
+				</div>
+</div>
+</div>
+									</div>
+										</div>
+									</div>
+						</div>
+							<div class="clearbreak"></div></div>
+						<div class="clearbreak"></div></div></div></div></div></div></div></div></div>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</div>
+				</div>
+			
+		</div>
+	
+<div style="display: none; z-index: 65555; position: fixed; top: 0px; left: 0px; visibility: hidden; opacity: 0;" id="sbox-overlay"></div><div style="display: none; z-index: 65557; position: fixed; top: 50%; left: 50%;" id="sbox-window"><a href="#" id="sbox-btn-close"></a><div style="visibility: hidden; opacity: 0;" id="sbox-content"></div></div>
+
+	<script type="text/javascript">
+	    jQuery(document).ready(function() {
+	        pfxURL.staticVar = '<%= System.Configuration.ConfigurationManager.AppSettings["GSite"]  %>';
+
+	    });
+</script>
+
+</body></html>

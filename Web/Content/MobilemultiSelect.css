@@ -1,0 +1,86 @@
+﻿.popup .col-2 #slider {font-size: 11px;}
+.popup .col-2 #slider td, input { font-family:Verdana, sans-serif; font-size:10px;} 
+select { font-family:Verdana, sans-serif; font-size:11px;} 
+.popup .col-2 p { font-size: 11px;}
+
+.facethead { border:1px solid #ddd; padding:3px 10px 4px 10px; margin-top:1px; cursor:pointer;  position: relative; font-size: 10px; }
+.facethead:hover {background-color:#eefbe5;}
+
+.facetheadSelected { width:100%; border:1px solid #ddc; padding:3px 10px 4px 10px; margin-top:1px; cursor:pointer;  position: relative; font-weight: bold; font-size: 10px; }
+.facetheadSelected:hover {background-color:#f4f4d0;}
+.facetheadSelected .count { color: #222;}
+
+.facethead.off, .facethead.off:hover {  color: #ccc; background-position: -621px center !important; }
+.facethead.off .count { color: #bbb;}
+
+.hidden { display: none; }
+a { outline:  none; text-decoration: underline}
+
+#slider .text {border:1px solid #ddd; border-top:none;padding:10px; }
+#slider .count { display: block; position: absolute; top: 3px; right: 20px; padding-right: 10px; color: #999; font-weight: normal;}
+#slider .content { width:100%; display: none; }
+
+.scroller {height: 270px;width:100%; overflow: auto; border: 1px solid #ccc; background: #fff; }
+.scroller h2 { margin-left: 10px; clear: both; font-size: 11px; margin: 5px 0 0 10px; font-family: verdana; font-weight: bold;}
+
+
+/* target IE7 only */
+*:first-child+html td.checky { padding: 0 !important;}
+
+.text table.drops { float: none; margin: 0; width: auto;}
+.text table.drops td { width: auto; padding-right: 4px;}
+
+.results {width: 169px; height: 100px; margin-top: 30px; padding-top: 5px; position: relative; left: -2px; text-align: center; }
+.resultsWait {width: 169px; background: url('/img/findacar/search/adv/bg_count_v2.gif') top center no-repeat; height: 100px; margin-top: 30px; padding-top: 5px; position: relative; left: -2px; text-align: center; }
+#resultcount { font-size: 20px; padding: 10px 0 5px 0 ; display: block; font-weight: bold; color: #003366;}
+.resultsWait #resultcount { visibility: hidden;}
+.resultsWait #carsfound { visibility: hidden;}
+
+.instructions {position: absolute; top: 60px; left: 470px; width: 135px; font-size: 11px; color: #777; line-height: 140%;}
+.instructions h2 {font-size: 12px; margin: 15px 0 0 0; color: #206ab6; font-family: verdana; font-weight: bold;}
+.instructions select {margin: 5px 0 7px 0; width: 150px; }
+
+#results a { display:block;height:41px;width:117px;background:transparent url(/img/findacar/search/adv/button_showResults.gif) no-repeat 0 0; margin: auto;}
+.resultsWait #results a { display:block;height:41px;width:117px;background:transparent url(/img/findacar/search/adv/button_pleaseWait.gif) no-repeat 0 0; margin: auto;}
+#clearForm a {display:block;height:25px;width:84px;margin: auto; margin-top: 17px; }
+#results a#wait{ background: none; width: auto; height: auto;}
+
+.popup{padding-bottom:10px}
+#page{width:680px !important;margin:0 0 0 30px !important;text-align:center}
+#content {float:none;width:100%; position:relative;text-align:left; padding:0 0 10px 0;overflow:visible;}
+#facethead{width:654px;height:5px !important;margin:0 0px 0 2px;background:#fff url(/img/popups/bg_facethead_popup.jpg) top left no-repeat;float:none;font-size:1px}
+
+ul.formList input { margin-bottom: 0px;}
+ul.formList select { padding: 0px;}
+
+.replace {display:block;background-repeat:no-repeat;background-position:left top;background-color:transparent;}
+/* tidy these up */
+.replace * {text-indent:-10000px;display:block;background-repeat:no-repeat;background-position:left top;background-color:transparent;}
+/*.replace a {text-indent:0;}*/
+.replace a span {text-indent:-10000px;}
+.replace a:hover {cursor: pointer;background-position: 0px -100px !important;}
+
+.fieldName { padding-top: 3px !important; white-space: nowrap;}
+ 
+.popup p,.popup form{float:none;}
+
+.text table { width:570px;margin-top:3px;margin-bottom:0;}
+.text table.colnone { width:auto;}
+.text table.col4 { width:385px;}
+.text table.drops { width:auto; margin-top: 3px;}
+.text table td { padding:3px 0 3px 3px;_padding:1px 0 3px 3px;font-size:10px; }
+*.first-child+html .text table td {padding:1px 0 3px 0px;}
+.text table.drops td,*.first-child+html .text table.drops td { white-space:nowrap;padding:0px 3px 0px 3px;}
+.text table.drops select option {padding-right:5px;}
+.text .scroller table { width:90%;margin-top:3px;margin-left: 5px;}
+.text table td label { font-weight: normal;padding-left:6px;}
+.text table.colnone td { width:50%;padding-right:20px;}
+.text table.col3 td { width: 1%;}
+.text table.col2 td { width: 50%;}
+.text table.col4 td { width: 25%;}
+.col2 td:hover, .col3 td:hover, .col4 td:hover, .colnone td:hover { background: #AeE366;}
+
+.text, .footer, select {font-size: 10px !important;}
+.footer a { text-decoration:  none !important;}
+
+#bottom {_margin-bottom: -1px;}

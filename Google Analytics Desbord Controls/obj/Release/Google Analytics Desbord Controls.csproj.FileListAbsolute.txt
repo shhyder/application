@@ -1,0 +1,8 @@
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\bin\Release\Google Analytics Desbord Controls.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\bin\Release\Google Analytics Desbord Controls.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\bin\Release\Google.GData.Analytics.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\bin\Release\Google.GData.Client.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\bin\Release\Google.GData.Extensions.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\obj\Release\Google Analytics Desbord Controls.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\Google Analytics Desbord Controls\obj\Release\Google Analytics Desbord Controls.pdb

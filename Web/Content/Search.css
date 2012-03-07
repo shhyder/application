@@ -1,0 +1,170 @@
+﻿body
+{
+}
+
+
+.error
+    {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: small; 
+        font-weight: lighter; 
+        font-style: normal; 
+        color: red;
+    }
+    .header
+    {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: small; 
+        font-weight: normal; 
+        font-style: normal; 
+        color: Gray;
+        background:#FFFFFF;
+        text-align:left;
+        vertical-align:top;
+    }
+    .gridContentStyle
+    {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: small; 
+        font-weight: normal; 
+        font-style: normal; 
+        color:#B28F00;
+        background: #FEF2BF;
+        text-align:left;
+        vertical-align:top;
+    }
+    .gridAlternateContentStyle
+    {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: small; 
+        font-weight: normal; 
+        font-style: normal; 
+        color:#B28F00;
+        background:#FEE680;
+        text-align:left;
+        vertical-align:top;
+    }
+    .footer
+    {
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: small; 
+        font-weight: normal; 
+        font-style: normal; 
+        color: #FFFFFF;
+        background:#FFCC00;
+        text-align:right;
+        width:100%;
+    }
+    
+    
+    
+    .loading {
+    position: absolute;
+    display: none;
+    border: 1px solid #5c9ccc;
+    padding: 2px;
+    background-color: #E66000;
+    color: #ffffff;
+    opacity: 0.60;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    z-index: 100000;
+}
+
+
+.loadingLeft {
+    border: 1px solid #5c9ccc;
+    padding: 2px;
+    background-color: #E66000;
+    color: #ffffff;
+    opacity: 0.50;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    top:20px;
+    left:50px;
+}
+
+
+.gradbutton
+{color: #e8f0de;border:solid 1px #538312; background:#E66000; background:-webkit-gradient(linear, left top, left bottom, from(#E66000), to(#A14300)); background:-moz-linear-gradient(top, #E66000, #A14300); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E66000', endColorstr='#A14300');}
+.gradbutton a:hover {background: #538018; background: -webkit-gradient(linear, left top, left bottom, from(#FEDABF), to(#436b0c)); background:-moz-linear-gradient(top,  #FEDABF, #436b0c); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FEDABF', endColorstr='#436b0c');}
+.gradbutton a:active {color:#a9c08c; background:-webkit-gradient(linear, left top, left bottom, from(#FEDABF), to(#E66000)); background:-moz-linear-gradient(top,  #FEDABF,  #E66000); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FEDABF', endColorstr='#E66000');}
+
+
+.gradbutton {display:inline-block; outline:none; cursor:pointer; text-align:center; text-decoration:none; font:13px/100% Arial, Helvetica, sans-serif; padding:.5em 0.5em .55em; text-shadow:0 1px 1px rgba(0,0,0,.3); -webkit-border-radius:.5em;  -moz-border-radius:.5em; border-radius:.5em; -webkit-box-shadow:0 1px 2px rgba(0,0,0,.2); -moz-box-shadow:0 1px 2px rgba(0,0,0,.2); box-shadow:0 1px 2px rgba(0,0,0,.2);}
+.gradbutton:hover {text-decoration:none;}
+.gradbutton:active {position:relative; top:1px;}
+
+
+
+.ui-autocomplete {
+    background-color: white;
+    width: 300px;
+    border: 1px solid #cfcfcf;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+
+.editor-field
+{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: small; 
+	color:#E66000;
+}
+
+
+img, div, a, input{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: small; 
+	color:#E66000;
+}
+
+
+.textBlack{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: small; 
+	color: Black;
+}
+
+.editor-label
+{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: small; 
+	color:#E66000;
+}
+
+.text-main-products
+{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size: x-small; 
+	color:#E66000;
+}
+
+
+.label
+{
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#E66000;
+}
+
+.labelBold
+{
+	font-family:Arial, Helvetica, sans-serif; 
+	color:#E66000;
+	font-weight: bold; 
+}
+
+
+
+table {
+display: table;
+border-collapse: separate;
+border-spacing: 0px;
+border-color: gray;
+}

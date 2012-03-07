@@ -1,0 +1,55 @@
+E:\Projects\project\project\Product Search Modules\ProductSearch_V6\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V10\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Release\DataSet.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Release\GlobalVariables.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Release\GlobalVariables.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\bin\Release\DataSet.pdb
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Projects\project\project\Product Search Modules\ProductSearch_V11\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataSet.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\GlobalVariables.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.Design.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\GlobalVariables.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\DataSet.pdb
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\project\Projects\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataAccessLayer\obj\Release\DataAccessLayer.pdb
