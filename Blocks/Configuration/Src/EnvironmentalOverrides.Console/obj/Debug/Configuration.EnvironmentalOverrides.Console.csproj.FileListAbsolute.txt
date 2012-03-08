@@ -1,0 +1,7 @@
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\MergeConfiguration.exe
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\MergeConfiguration.pdb
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Console.Properties.Resources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\Configuration.EnvironmentalOverrides.Console.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.exe
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Configuration\Src\EnvironmentalOverrides.Console\obj\Debug\MergeConfiguration.pdb

@@ -100,3 +100,9 @@ D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V1
 D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\ResolveAssemblyReference.cache
 D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.dll
 D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\DataSet\obj\Debug\DataSet.pdb
+C:\Documents and Settings\Hyder\application\DataSet\bin\Debug\DataSet.dll.config
+C:\Documents and Settings\Hyder\application\DataSet\bin\Debug\DataSet.dll
+C:\Documents and Settings\Hyder\application\DataSet\bin\Debug\DataSet.pdb
+C:\Documents and Settings\Hyder\application\DataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\application\DataSet\obj\Debug\DataSet.dll
+C:\Documents and Settings\Hyder\application\DataSet\obj\Debug\DataSet.pdb

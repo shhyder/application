@@ -43,3 +43,8 @@ D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V1
 D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Debug\ResolveAssemblyReference.cache
 D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Debug\GlobalVariables.dll
 D:\project\Projects\Copy of ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\ProductSearch_V12\GlobalVariables\obj\Debug\GlobalVariables.pdb
+C:\Documents and Settings\Hyder\application\GlobalVariables\bin\Debug\GlobalVariables.dll
+C:\Documents and Settings\Hyder\application\GlobalVariables\bin\Debug\GlobalVariables.pdb
+C:\Documents and Settings\Hyder\application\GlobalVariables\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\application\GlobalVariables\obj\Debug\GlobalVariables.dll
+C:\Documents and Settings\Hyder\application\GlobalVariables\obj\Debug\GlobalVariables.pdb

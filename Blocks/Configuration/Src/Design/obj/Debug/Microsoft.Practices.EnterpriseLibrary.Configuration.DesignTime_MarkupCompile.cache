@@ -1,0 +1,19 @@
+﻿Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime
+
+
+library
+C#
+.cs
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Configuration\Src\Design\obj\Debug\
+Microsoft.Practices.EnterpriseLibrary.Configuration.Design
+none
+false
+DEBUG;TRACE
+
+422145675721
+
+3222078319545
+41-329412434
+ComponentModel\Editors\CustomAttributesEditor.xaml;ComponentModel\Editors\ElementCollectionEditor.xaml;ComponentModel\Editors\FlagsEditor.xaml;ComponentModel\Editors\TextEditDialog.xaml;ComponentModel\Editors\TypeBrowser\SelectGacAssembliesDialog.xaml;ComponentModel\Editors\TypeBrowser\TypeBrowser.xaml;Controls\Toolkit\Calendar\Themes\Aero.NormalColor.xaml;Controls\Toolkit\Calendar\Themes\Classic.xaml;Controls\Toolkit\Calendar\Themes\Generic.xaml;Controls\Toolkit\Calendar\Themes\Luna.HomeStead.xaml;Controls\Toolkit\Calendar\Themes\Luna.Metallic.xaml;Controls\Toolkit\Calendar\Themes\Luna.NormalColor.xaml;Controls\Toolkit\Calendar\Themes\Royale.NormalColor.xaml;Controls\Toolkit\DatePicker\Themes\Aero.NormalColor.xaml;Controls\Toolkit\DatePicker\Themes\Classic.xaml;Controls\Toolkit\DatePicker\Themes\Generic.xaml;Controls\Toolkit\DatePicker\Themes\Luna.HomeStead.xaml;Controls\Toolkit\DatePicker\Themes\Luna.Metallic.xaml;Controls\Toolkit\DatePicker\Themes\Luna.NormalColor.xaml;Controls\Toolkit\DatePicker\Themes\Royale.NormalColor.xaml;Controls\Toolkit\Themes\Aero.NormalColor.xaml;Controls\Toolkit\Themes\Classic.xaml;Controls\Toolkit\Themes\Generic.xaml;Controls\Toolkit\Themes\Luna.HomeStead.xaml;Controls\Toolkit\Themes\Luna.Metallic.xaml;Controls\Toolkit\Themes\Luna.NormalColor.xaml;Controls\Toolkit\Themes\Royale.NormalColor.xaml;Hosting\ConfigurationEditorUI.xaml;Hosting\SectionView.xaml;Hosting\WaitDialog.xaml;Resources\BlockSpecificTemplates.xaml;Resources\ViewModelDataTemplates.xaml;Resources\ExpanderDictionary.xaml;Resources\Converters.xaml;Resources\Brushes.xaml;Controls\MaskedPasswordTextBox.xaml;Wizard\WizardDataTemplates.xaml;Themes\SelectionNotifyingContextMenu.Generic.xaml;Themes\ElementModelContainer.Generic.xaml;Themes\Generic.xaml;ViewModel\BlockSpecifics\Logging\OverriddenTraceListenerCollectionEditor.xaml;Wizard\WizardView.xaml;
+
+

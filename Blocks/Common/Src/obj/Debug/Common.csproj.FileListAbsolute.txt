@@ -1,0 +1,20 @@
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.Configuration.DesignResources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Manageability.Properties.Resources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.Properties.Resources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Hyder\application\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Hyder\application\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Hyder\application\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.Configuration.DesignResources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Manageability.Properties.Resources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.Properties.Resources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Hyder\application\Blocks\Common\Src\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb

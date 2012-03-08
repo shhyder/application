@@ -1,0 +1,22 @@
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DesignResources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Manageability.Properties.Resources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Oracle.Configuration.DesignResources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Properties.Resources.resources
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Hyder\My Documents\EntLib50Src\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Hyder\application\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Hyder\application\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Hyder\application\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DesignResources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Manageability.Properties.Resources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Oracle.Configuration.DesignResources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.Properties.Resources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Hyder\application\Blocks\Data\Src\Data\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
