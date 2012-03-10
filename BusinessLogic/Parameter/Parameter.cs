@@ -78,8 +78,8 @@ namespace BusinessLogic.Parameter
             _base = new DataAccessLayer.Parameter.Secret_Question(_db);
             ds.Load(_base.GetAllItem(), LoadOption.OverwriteChanges, ds.Secret_Question);
 
-            _base = new DataAccessLayer.Customer.Customer(_db);
-            ds.Load(_base.GetAllItem(), LoadOption.OverwriteChanges, ds.Customer);
+            //_base = new DataAccessLayer.Customer.Customer(_db);
+            //ds.Load(_base.GetAllItem(), LoadOption.OverwriteChanges, ds.Customer);
 
 
             

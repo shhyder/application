@@ -51,7 +51,6 @@
     <Compile Include="BaseNonParameter.cs" />
     <Compile Include="BaseParameter.cs" />
     <Compile Include="ClassContainer.cs" />
-    <Compile Include="Distributor\Customer.cs" />
     <Compile Include="Distributor\Distributor.cs" />
     <Compile Include="Event\Event.cs" />
     <Compile Include="Event\Event_Item.cs" />

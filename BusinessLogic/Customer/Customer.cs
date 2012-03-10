@@ -41,27 +41,27 @@ namespace BusinessLogic.Customer
         {
            
             _is_Single_Transaction = false;
-            DataAccessLayer.Customer.Customer cust = new DataAccessLayer.Customer.Customer();
+            //DataAccessLayer.Customer.Customer cust = new DataAccessLayer.Customer.Customer();
 
-            try
-            {
+            //try
+            //{
                
-                cust.BeginTransaction();
-                cust.SetConnection();
-                cust.setStatus(id, is_Active);
+            //    cust.BeginTransaction();
+            //    cust.SetConnection();
+            //    cust.setStatus(id, is_Active);
 
 
-                cust.CommitTransaction();
-            }
-            catch
-            {
-                cust.RollBackTransaction();
-                return false;
-            }
-            finally
-            {
+            //    cust.CommitTransaction();
+            //}
+            //catch
+            //{
+            //    cust.RollBackTransaction();
+            //    return false;
+            //}
+            //finally
+            //{
 
-            }
+            //}
             return true;
 
 
