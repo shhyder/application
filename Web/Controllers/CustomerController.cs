@@ -132,7 +132,7 @@ namespace Web.Controllers
 
 
 
-             DataRow[] rows = ds.Customer.Select(filter," Code ");
+             DataRow[] rows = ds.Distributor.Select(filter," Code ");
 
             _totalCount = rows.Length;
 
