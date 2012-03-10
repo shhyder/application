@@ -128,8 +128,6 @@
     <Content Include="Advanced Search_files\specsPopup.css" />
     <Content Include="Advanced Search_files\s_code.js" />
     <Content Include="Global.asax" />
-    <Content Include="marker-images\image.png" />
-    <Content Include="marker-images\shadow.png" />
     <Content Include="Views\AttributeVariant\AttributeVariant.ascx" />
     <Content Include="Views\Attribute\Attribute.ascx" />
     <Content Include="Views\Attribute\AttributeVariant.ascx" />
