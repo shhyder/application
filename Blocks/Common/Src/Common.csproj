@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
   <PropertyGroup>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -26,7 +26,8 @@
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
-    </UpgradeBackupLocation><OldToolsVersion>2.0</OldToolsVersion>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -77,18 +78,6 @@
     <CodeAnalysisRules>-Microsoft.Security#CA2116;-Microsoft.Security#CA2117;-Microsoft.Reliability#CA2001;-Microsoft.Naming#CA1702;-Microsoft.Naming#CA1704;-Microsoft.Performance#CA1824;-Microsoft.Globalization#CA1308;-Microsoft.Security#CA2109;-Microsoft.Globalization#CA1307;-Microsoft.Globalization#CA1309</CodeAnalysisRules>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Lib\Microsoft.Practices.ServiceLocation.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Practices.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Lib\Microsoft.Practices.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Practices.Unity.Interception, Version=2.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Lib\Microsoft.Practices.Unity.Interception.dll</HintPath>
-    </Reference>
     <Reference Include="System">
       <Name>System</Name>
     </Reference>
@@ -361,6 +350,20 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Unity\Unity.Interception\Src\Unity.Interception.csproj">
+      <Project>{F8186B23-B0E1-4646-B5F3-14357841E2BA}</Project>
+      <Name>Unity.Interception</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Unity\Unity\Src\Unity.csproj">
+      <Project>{EE1F752C-1FAB-41AD-AD63-857D0E62AB6B}</Project>
+      <Name>Unity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Microsoft.Practices.ServiceLocation\Microsoft.Practices.ServiceLocation.csproj">
+      <Project>{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}</Project>
+      <Name>Microsoft.Practices.ServiceLocation</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

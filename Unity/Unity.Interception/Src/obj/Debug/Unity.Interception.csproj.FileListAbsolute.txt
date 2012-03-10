@@ -1,0 +1,8 @@
+C:\Documents and Settings\Hyder\application\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Documents and Settings\Hyder\application\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Hyder\application\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Hyder\application\Unity\Unity.Interception\Src\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\application\Unity\Unity.Interception\Src\obj\Debug\Microsoft.Practices.Unity.InterceptionExtension.Properties.Resources.resources
+C:\Documents and Settings\Hyder\application\Unity\Unity.Interception\Src\obj\Debug\Unity.Interception.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\application\Unity\Unity.Interception\Src\obj\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Hyder\application\Unity\Unity.Interception\Src\obj\Debug\Microsoft.Practices.Unity.Interception.pdb

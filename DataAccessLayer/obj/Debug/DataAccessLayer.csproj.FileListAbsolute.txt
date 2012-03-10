@@ -277,3 +277,6 @@ C:\Documents and Settings\Hyder\application\DataAccessLayer\bin\Debug\DataSet.pd
 C:\Documents and Settings\Hyder\application\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Hyder\application\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Documents and Settings\Hyder\application\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Documents and Settings\Hyder\application\DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Documents and Settings\Hyder\application\DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Documents and Settings\Hyder\application\DataAccessLayer\bin\Debug\Microsoft.Practices.ServiceLocation.xml

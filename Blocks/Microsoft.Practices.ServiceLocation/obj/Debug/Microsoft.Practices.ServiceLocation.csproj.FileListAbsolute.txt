@@ -1,0 +1,8 @@
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\bin\Debug\Microsoft.Practices.ServiceLocation.XML
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\obj\Debug\Microsoft.Practices.ServiceLocation.Properties.Resources.resources
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\obj\Debug\Microsoft.Practices.ServiceLocation.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\obj\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Hyder\application\Blocks\Microsoft.Practices.ServiceLocation\obj\Debug\Microsoft.Practices.ServiceLocation.pdb

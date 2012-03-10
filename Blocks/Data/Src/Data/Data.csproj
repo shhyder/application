@@ -78,14 +78,6 @@
     <CodeAnalysisRules>-Microsoft.Globalization#CA1308;-Microsoft.Globalization#CA1307;-Microsoft.Naming#CA1702;-Microsoft.Naming#CA1704;-Microsoft.Performance#CA1824;-Microsoft.Security#CA2116;-Microsoft.Security#CA2117;-Microsoft.Security#CA2109</CodeAnalysisRules>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Lib\Microsoft.Practices.ServiceLocation.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Practices.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Lib\Microsoft.Practices.Unity.dll</HintPath>
-    </Reference>
     <Reference Include="System">
       <Name>System</Name>
     </Reference>
@@ -249,9 +241,17 @@
     <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Unity\Unity\Src\Unity.csproj">
+      <Project>{EE1F752C-1FAB-41AD-AD63-857D0E62AB6B}</Project>
+      <Name>Unity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\Common\Src\Common.csproj">
       <Project>{A09297C8-2C40-470B-8856-D856676DDFFA}</Project>
       <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Microsoft.Practices.ServiceLocation\Microsoft.Practices.ServiceLocation.csproj">
+      <Project>{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}</Project>
+      <Name>Microsoft.Practices.ServiceLocation</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

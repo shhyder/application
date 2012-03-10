@@ -13,10 +13,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Microsoft.Practices.ObjectBuilder2;
+using Microsoft.Practices.Unity.ObjectBuilder;
+
 using Microsoft.Practices.Unity;
 using System.Threading;
-using Microsoft.Practices.Unity.ObjectBuilder;
+using Microsoft.Practices.ObjectBuilder2;
 
 namespace Microsoft.Practices.EnterpriseLibrary.Common.Configuration.Unity
 {

@@ -380,3 +380,6 @@ C:\Documents and Settings\Hyder\application\Web\bin\DataSet.pdb
 C:\Documents and Settings\Hyder\application\Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Hyder\application\Web\obj\Debug\Web.dll
 C:\Documents and Settings\Hyder\application\Web\obj\Debug\Web.pdb
+C:\Documents and Settings\Hyder\application\Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Documents and Settings\Hyder\application\Web\bin\Microsoft.Practices.Unity.xml
+C:\Documents and Settings\Hyder\application\Web\bin\Microsoft.Practices.Unity.Interception.xml

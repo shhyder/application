@@ -325,3 +325,6 @@ C:\Documents and Settings\Hyder\application\BusinessLogic\bin\Debug\DataSet.pdb
 C:\Documents and Settings\Hyder\application\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Hyder\application\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Documents and Settings\Hyder\application\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Documents and Settings\Hyder\application\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Documents and Settings\Hyder\application\BusinessLogic\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Documents and Settings\Hyder\application\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
